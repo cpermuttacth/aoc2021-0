@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 x() {
     local A=$1 B=$2 C=$3 D=$4
     # part 1
